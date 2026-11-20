@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Osense/Sense_Loader-releases/releases/latest/download/Sense_Loader-win64.zip"><b>최신 버전 다운로드 (zip)</b></a>
+  <a href="https://github.com/Osense/Sense_Loader-releases/raw/main/Sense_Loader-win64.zip"><b>최신 버전 다운로드 (zip)</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/Osense/Sense_Loader-releases/releases/latest">릴리스 노트</a>
+  <a href="CHANGELOG.md">변경 내역</a>
 </p>
 
 ---
 
 ## 설치 / 실행
 
-1. [`Sense_Loader-win64.zip`](https://github.com/Osense/Sense_Loader-releases/releases/latest/download/Sense_Loader-win64.zip)을 받습니다. 이 링크는 항상 최신 버전을 가리킵니다.
+1. [`Sense_Loader-win64.zip`](https://github.com/Osense/Sense_Loader-releases/raw/main/Sense_Loader-win64.zip)을 받습니다. 이 링크는 항상 최신 버전을 가리킵니다.
 2. 압축을 풀고 **`Sense Loader.exe`** 를 실행합니다.
 
 - 설치가 필요 없습니다. ffmpeg · ffprobe · deno가 함께 들어 있어 따로 설치할 것이 없습니다.
